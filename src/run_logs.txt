@@ -1,0 +1,20 @@
+| Test Params | Cluster = 3 | N = 20000 | Dim = 2 | Iteration 4 |
+--- 163.48713421821594 seconds ---
+| Test Params | Cluster = 3 | N = 200000 | Dim = 2 | Iteration 15 |
+--- 777.150642156601 seconds ---
+| Test Params | Cluster = 3 | N = 20000 | Dim = 2 | Iteration 3 |
+--- 121.90908074378967 seconds ---
+| Test Params | Cluster = 3 | N = 200000 | Dim = 2 | Iteration 2 |
+--- 104.8193428516388 seconds ---
+| Test Params | Cluster = 3 | N = 200000 | Dim = 2 | Iteration 1 |
+--- 54.505483865737915 seconds ---
+| Test Params | Cluster = 3 | N = 200000 | Dim = 2 | Iteration 1 |
+--- 59.03117918968201 seconds ---
+| Test Params | Cluster = 3 | N = 2000000 | Dim = 2 | Iteration 1 |
+--- 230.58718848228455 seconds ---
+| Test Params | Cluster = 3 | N = 20000 | Dim = 2 | Iteration 1 |
+--- 6.891081094741821 seconds ---
+| Test Params | Cluster = 3 | N = 200000 | Dim = 2 | Iteration 1 |
+--- 19.778006315231323 seconds ---
+| Test Params | Cluster = 3 | N = 2000000 | Dim = 2 | Iteration 1 |
+--- 126.87776803970337 seconds ---
