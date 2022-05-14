@@ -11,3 +11,5 @@ Part of HCMUT Data Mining course.
 Note:
 * The details for implementation are all inside the path: `/src`
 * The scatter plots will be stored in `/images` after running `dataGenerator.py`
+* Navigate to KMeans.py and change `r hadoop` to `--runner=local` to run locally or `-r dataproc` to deploy on Dataproc
+* Deploy MRJob on Amazon EMR is possible as well by simply using `r emr` and EMR configuration file.
